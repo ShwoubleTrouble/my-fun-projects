@@ -1,1 +1,2 @@
-# my-fun-projects
+# Weak
+![weaklogo](weak.png)
